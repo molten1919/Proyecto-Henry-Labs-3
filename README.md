@@ -6,7 +6,7 @@ En este proyecto se realizó un análisis de mercado de MOOC´s para una startsu
 
 Se realizó un proceso de EDA, que viene descrito en el archivo EDA_pi3.ipynb, de donde se obtienen los archivos en limpio que se cargaron a Power Bi.
 
-En el dashboard interactivo (PONER LINK) viene el análisis y el storytelling para la startup que nos pidió el análisis.
+En el dashboard interactivo (LINK) viene el análisis y el storytelling para la startup que nos pidió el análisis.
 
 También se realizó un WordCloud con las palabras más recurrentes...
 
